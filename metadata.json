@@ -1,0 +1,5 @@
+{
+  "name": "二次根式分母有理化練習",
+  "description": "一個練習二次根式分母有理化的互動網站，支持多種題型、LaTeX 顯示及自動批改。",
+  "requestFramePermissions": []
+}
